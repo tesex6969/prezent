@@ -1,0 +1,30 @@
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: rgb(194, 85, 121);
+}
+
+header {
+    margin-top: 24px;
+    text-align: center;
+}
+
+#text img {
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    border-radius: 25px;
+}
+
+button {
+    height: 50px;
+    width: auto;
+    background-color: rgb(196, 40, 66);
+    border-radius: 20px;
+    color: rgb(0, 0, 0);
+    font-size: large;
+    margin-top: 25px;
+    border: 2px solid black;
+}

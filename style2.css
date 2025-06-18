@@ -1,0 +1,41 @@
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: rgb(194, 85, 121);
+}
+
+header {
+    margin-top: 24px;
+    text-align: center;
+}
+
+button {
+    height: 50px;
+    width: auto;
+    background-color: rgb(196, 40, 66);
+    border-radius: 20px;
+    color: rgb(0, 0, 0);
+    font-size: large;
+    margin-top: 25px;
+    border: 2px solid black;
+
+}
+
+.button-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+    max-width: 280px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+#buttons {
+    background-color: pink;
+    border-radius: 25px;
+    width: auto;
+    max-width: 380px;
+    height: 350px;
+}
