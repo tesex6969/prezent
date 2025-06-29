@@ -41,8 +41,8 @@ button {
 }
 @media (max-width: 768px) {
 button {
-    font-size: small;
-    height: 40px;
+    font-size: medium;
+    height: 50px;
     max-width: 60px;
 }
 }
