@@ -46,12 +46,12 @@ img {
 
 .photo-container.show {
     opacity: 1;
-
+    max-height: 3000PX;
 }
 @media (max-width: 768px){
     img {
         height: 300px;
         width: 100%;
     }
-    
+
 }
