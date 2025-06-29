@@ -39,3 +39,8 @@ button {
     max-width: 380px;
     height: 350px;
 }
+@media (max-width: 768px) {
+    #buttons {
+        max-width: 200px;
+    }
+}
