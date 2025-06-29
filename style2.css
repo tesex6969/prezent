@@ -40,7 +40,9 @@ button {
     height: 350px;
 }
 @media (max-width: 768px) {
-    #buttons {
-        max-width: 200px;
-    }
+button {
+    font-size: small;
+    height: 40px;
+    max-width: 60px;
+}
 }
